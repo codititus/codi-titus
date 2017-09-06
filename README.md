@@ -4,7 +4,7 @@ layout: post
 ---
 
 ## HIGHLIGHTS OF QUALIFICATIONS
-* 12 years’ combined experience in the customer service and management fields
+* 12 years combined experience in the customer service and management fields
 * Increased revenue through process and organizational improvements
 * Customer and client relation building
 * Accustomed to high-volume fast-paced projects and environments
