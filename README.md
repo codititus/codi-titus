@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+# OBJECTIVE
+Hard working and highly motivated business management student with proven leadership and organizational skills seeking to apply my abilities and experience to a position in Project Management. Looking for entry-level Project Manager positions to further my knowledge, proficiency, and career achievement goals.
 
-You can use the [editor on GitHub](https://github.com/milesj/codi-titus/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# HIGHLIGHTS OF QUALIFICATIONS
+* 12 years’ combined experience in the customer service and management fields
+* Increased revenue through process and organizational improvements
+* Customer and client relation building
+* Accustomed to high-volume fast-paced projects and environments
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# PROFESSIONAL EXPERIENCE
+## Manager, Coin Jam (Salem, Oregon) · Jul ’13 – Apr ’17
+* Managing a team of skilled individuals to drive Best In City service
+* Consulting leadership on operational performance, marketing strategy, and business process
+* Strategic development, tactical planning, and inspection on performance execution
+* Project management for launches of products, systems, and policies
+* Addressed customer escalations leading to process improvement
+* Maintaining and managing business processes for performance, hiring, and education
+ 
+## Manager, Ground Floor Cafe (Newcastle, Australia) · June ‘12 – June ‘13 
+* Facilitated training, education, and coaching for new and existing employees
+* Service improvement process specialist in charge of driving up customer satisfaction
+* Inventory management and maintenance
+* Revenue generation and customer loyalty focused leadership
+* Providing strategic direction for both long and short term objectives
+ 
+## Administrative Assistant, Nordstrom (Portland, OR) · Oct ’07 – Aug ‘10 
+* Managed documents and files
+* Scheduled core meetings and events
+* Assisted HR in various daily operations
+* Prepared business agendas, presentations, and more
+ 
+## Secretary, VCA Animal Hospital (Salem, OR) · Feb ’06 – Oct ‘07 
+* Tracked and maintained client accounts
+* Schedule and organized appointments
+* Receptionist like duties
+* Assisted in saving animals lives
 
-### Markdown
+# EDUCATION & CERTIFICATION
+* Portland Community College, business administration and project management (Completion: Winter 2017)
+* PMI Certificate (Completion: Spring 2018)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/milesj/codi-titus/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# PROFESSIONAL REFERENCES
+Available upon request.
