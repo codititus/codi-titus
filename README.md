@@ -1,6 +1,5 @@
 ---
 title: Codi Titus - Awesome project manager in training
-layout: post
 ---
 
 ## HIGHLIGHTS OF QUALIFICATIONS
