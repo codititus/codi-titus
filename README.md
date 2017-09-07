@@ -1,7 +1,3 @@
----
-title: Codi Titus - Awesome project manager in training
----
-
 ## HIGHLIGHTS OF QUALIFICATIONS
 * 12 years combined experience in the customer service and management fields
 * Increased revenue through process and organizational improvements
